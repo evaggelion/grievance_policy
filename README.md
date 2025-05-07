@@ -49,8 +49,7 @@ Inspired by the teachings of the **New Testament**, **Game Theory Ethics**, and 
 
 ## License
 
-MIT License (or your preferred license)
+License √
 
 ---
-
 *“Let not your heart be troubled: ye believe in God, believe also in Me.” — John 14:1*
