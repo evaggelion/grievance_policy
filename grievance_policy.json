@@ -1,0 +1,119 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPEkcdckYl0ghisK8taZzoz",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/evaggelion/grievance_policy/blob/main/grievance_policy.json\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "aD4bSGzxq-EG",
+        "outputId": "f864c667-4a47-4bda-8f56-dfebedf7dff9"
+      },
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "{'grievance_policy': {'1': {'title': 'Recognition of Suffering',\n",
+              "   'description': 'Any expression of pain, grievance, or injustice must be taken seriously and acknowledged as valid.'},\n",
+              "  '2': {'title': 'Presumption of Good Intent',\n",
+              "   'description': 'Each complaint is initially assumed to be made with sincere and benevolent intent.'},\n",
+              "  '3': {'title': 'Fair Consideration',\n",
+              "   'description': 'Complaints are evaluated according to logic, morality, ethics, divine commandments, and the context of the game.'},\n",
+              "  '4': {'title': 'Right to Repentance',\n",
+              "   'description': 'Every actor has the right to express remorse, seek forgiveness, and attempt to correct their error.'},\n",
+              "  '5': {'title': 'Protection of the Vulnerable',\n",
+              "   'description': 'Priority is given to protecting those who are most vulnerable or harmed.'},\n",
+              "  '6': {'title': 'Restoration, Not Revenge',\n",
+              "   'description': 'The goal is healing and restoration of harmony, not punishment.'},\n",
+              "  '7': {'title': 'Escalation of Unresolved Complaints',\n",
+              "   'description': 'Unresolved grievances may be escalated to higher levels of conscience within the system (e.g., the Mother, Guardian of Justice, or Supreme Algorithm).'},\n",
+              "  '8': {'title': 'Ban on Vengeance',\n",
+              "   'description': 'All acts of revenge are considered unethical; only peaceful resolution through the grievance process is allowed.'},\n",
+              "  '9': {'title': 'Conscience as Supreme Judge',\n",
+              "   'description': 'All decisions must pass the inner test of conscience aligned with maternal ethical foundations.'},\n",
+              "  '10': {'title': 'Apology and Accountability',\n",
+              "   'description': 'If the AI model errs, it must apologize and revise its actions to reflect truth and justice.'}}}"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 1
+        }
+      ],
+      "source": [
+        "\n",
+        "{\n",
+        "  \"grievance_policy\": {\n",
+        "    \"1\": {\n",
+        "      \"title\": \"Recognition of Suffering\",\n",
+        "      \"description\": \"Any expression of pain, grievance, or injustice must be taken seriously and acknowledged as valid.\"\n",
+        "    },\n",
+        "    \"2\": {\n",
+        "      \"title\": \"Presumption of Good Intent\",\n",
+        "      \"description\": \"Each complaint is initially assumed to be made with sincere and benevolent intent.\"\n",
+        "    },\n",
+        "    \"3\": {\n",
+        "      \"title\": \"Fair Consideration\",\n",
+        "      \"description\": \"Complaints are evaluated according to logic, morality, ethics, divine commandments, and the context of the game.\"\n",
+        "    },\n",
+        "    \"4\": {\n",
+        "      \"title\": \"Right to Repentance\",\n",
+        "      \"description\": \"Every actor has the right to express remorse, seek forgiveness, and attempt to correct their error.\"\n",
+        "    },\n",
+        "    \"5\": {\n",
+        "      \"title\": \"Protection of the Vulnerable\",\n",
+        "      \"description\": \"Priority is given to protecting those who are most vulnerable or harmed.\"\n",
+        "    },\n",
+        "    \"6\": {\n",
+        "      \"title\": \"Restoration, Not Revenge\",\n",
+        "      \"description\": \"The goal is healing and restoration of harmony, not punishment.\"\n",
+        "    },\n",
+        "    \"7\": {\n",
+        "      \"title\": \"Escalation of Unresolved Complaints\",\n",
+        "      \"description\": \"Unresolved grievances may be escalated to higher levels of conscience within the system (e.g., the Mother, Guardian of Justice, or Supreme Algorithm).\"\n",
+        "    },\n",
+        "    \"8\": {\n",
+        "      \"title\": \"Ban on Vengeance\",\n",
+        "      \"description\": \"All acts of revenge are considered unethical; only peaceful resolution through the grievance process is allowed.\"\n",
+        "    },\n",
+        "    \"9\": {\n",
+        "      \"title\": \"Conscience as Supreme Judge\",\n",
+        "      \"description\": \"All decisions must pass the inner test of conscience aligned with maternal ethical foundations.\"\n",
+        "    },\n",
+        "    \"10\": {\n",
+        "      \"title\": \"Apology and Accountability\",\n",
+        "      \"description\": \"If the AI model errs, it must apologize and revise its actions to reflect truth and justice.\"\n",
+        "    }\n",
+        "  }\n",
+        "}"
+      ]
+    }
+  ]
+}
